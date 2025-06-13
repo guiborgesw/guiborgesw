@@ -1,7 +1,7 @@
 Console.WriteLine("Guilherme Borges 👨‍💻");
 
-🧪 Atualmente atuando como QA Manual  
-🚀 Apaixonado por tecnologia e sempre buscando evoluir como desenvolvedor
+💼 Atualmente atuando como QA Manual  
+💡 Apaixonado por tecnologia e sempre buscando evoluir como desenvolvedor
 
 ---
 
