@@ -14,28 +14,38 @@ Atualmente, sigo em constante evolução, focado em transformar aprendizado em s
 
 ---
 
-## 🛠️ Stack Atual
-  ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat&logo=html5&logoColor=white)
-  ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat&logo=css3&logoColor=white)
-  ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
-  ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-  ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
-  ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+## 🛠️ Stack atual
 
-Qualidade: QA Manual · Testes funcionais
-Infra: Redes · TI
+<p align="center">
+  <!-- Front-end -->
+  <img src="https://skillicons.dev/icons?i=html" height="40"/>
+  <img src="https://skillicons.dev/icons?i=css" height="40"/>
+  <img src="https://skillicons.dev/icons?i=javascript" height="40"/>
+  <img src="https://skillicons.dev/icons?i=react" height="40"/>
+  <img src="https://skillicons.dev/icons?i=typescript" height="40"/>
+  
+  <!-- Versionamento e colaboração -->
+  <img src="https://skillicons.dev/icons?i=git" height="40"/>
+  <img src="https://skillicons.dev/icons?i=github" height="40"/>
+  
+  <!-- Outros conhecimentos -->
+  <img src="https://skillicons.dev/icons?i=vscode" height="40"/>
+  <img src="https://skillicons.dev/icons?i=figma" height="40"/>
+  <img src="https://skillicons.dev/icons?i=docker" height="40"/>
+  <img src="https://skillicons.dev/icons?i=mysql" height="40"/>
+</p>
 
 ---
 
-## 📚 Explorando Agora
+## 📚 Em desenvolvimento
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-E10098?style=flat&logo=graphql&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-06B6D4?style=flat&logo=tailwind-css&logoColor=white)
-![UX/UI](https://img.shields.io/badge/UX%2FUI-Design-informational?style=flat&logo=figma&logoColor=white)
+<p align="center">
 
+  <img src="https://skillicons.dev/icons?i=graphql" height="40"/>
+  <img src="https://skillicons.dev/icons?i=tailwind" height="40"/>
+  <img src="https://skillicons.dev/icons?i=design" height="40"/>
+</p>
 
----
 
 ## 📊 Atividade no GitHub
 <p align="center">
