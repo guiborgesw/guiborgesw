@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/fa2d698e-f65a-4bcf-945b-5088cd0b21d1" width="50%" alt="banner">
+  <img src="https://github.com/user-attachments/assets/fa2d698e-f65a-4bcf-945b-5088cd0b21d1" width="70%" alt="banner">
 </p>
 
 ## 👨‍💻 Sobre mim  
