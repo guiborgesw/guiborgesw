@@ -1,7 +1,8 @@
 <!-- Banner -->
 <h1 align="center">Guilherme Borges</h1>
 <p align="center">
-  <em>QA Manual | Futuro Desenvolvedor Front-end</em>
+  <em><img width="1536" height="1024" alt="image" src="https://github.com/user-attachments/assets/45eaff36-562d-42d4-aae4-b4f14db9cb5e" />
+</em>
 </p>
 
 ---
@@ -20,6 +21,7 @@ Atualmente, sigo em constante evolução, focado em transformar aprendizado em s
   ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
   ![Git](https://img.shields.io/badge/Git-F05032?style=flat&logo=git&logoColor=white)
   ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat&logo=github&logoColor=white)
+
 Qualidade: QA Manual · Testes funcionais
 Infra: Redes · TI
 
