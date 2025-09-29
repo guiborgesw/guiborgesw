@@ -1,7 +1,8 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/fa2d698e-f65a-4bcf-945b-5088cd0b21d1" width="70%" alt="banner">
+  <img src="https://github.com/user-attachments/assets/8f582a42-6f64-428f-82a8-45c31f037e02" width="90%" alt="banner">
 </p>
+<br>
 
 ## 👨‍💻 Sobre mim  
 Sou um profissional apaixonado por tecnologia e inovação, com **experiência prática em desenvolvimento front-end**, e controle de qualidade de software. Estou em constante evolução, buscando aplicar meus conhecimentos para **transformar ideias em soluções** digitais eficientes e funcionais.
