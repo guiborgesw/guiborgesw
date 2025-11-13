@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/8f582a42-6f64-428f-82a8-45c31f037e02" width="90%" alt="banner">
+  <img src="C:\Users\black\Downloads\Guilherme Borges - Banner.png" width="90%" alt="banner">
 </p>
 <br>
 
