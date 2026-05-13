@@ -90,6 +90,5 @@ I'm constantly growing, building real-world projects and always aiming to delive
 <br>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/guiborgesw)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/guiborgesw)
 
 📩 **Contato/Contact:** borgesg226@gmail.com
