@@ -1,6 +1,6 @@
 <!-- Banner -->
 <p align="center">
-  <img src="https://github.com/user-attachments/assets/3eeb26f8-df2a-489e-b7dd-f55f690ef1d3" width="90%" alt="banner">
+  <img src="capa-linkedin-guilherme-borges%20(1).png" width="90%" alt="banner">
 </p>
 <br>
 
@@ -39,56 +39,19 @@ I'm constantly growing, building real-world projects and always aiming to delive
 </table>
 <br>
 
----
 <br>
 
 ## 🛠️ Stack Atual / Current Stack
 <br>
 
-<p align="center"><b>Front-end</b></p>
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=html" height="50" title="HTML5"/>
-  <img src="https://skillicons.dev/icons?i=css" height="50" title="CSS3"/>
-  <img src="https://skillicons.dev/icons?i=javascript" height="50" title="JavaScript"/>
-  <img src="https://skillicons.dev/icons?i=typescript" height="50" title="TypeScript"/>
-  <img src="https://skillicons.dev/icons?i=react" height="50" title="React"/>
-  <img src="https://skillicons.dev/icons?i=tailwind" height="50" title="Tailwind CSS"/>
+  <img src="https://skillicons.dev/icons?i=ts,js,react,nodejs,postgres,prisma,docker,azure,git&theme=dark" alt="TypeScript, JavaScript, React, Node.js, PostgreSQL, Prisma, Docker, Azure DevOps, Git" />
 </p>
-
-<p align="center"><b>Back-end</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=nodejs" height="50" title="Node.js"/>
-  <img src="https://skillicons.dev/icons?i=mysql" height="50" title="MySQL"/>
-  <img src="https://skillicons.dev/icons?i=graphql" height="50" title="GraphQL"/>
-</p>
-
-<p align="center"><b>Versionamento & Colaboração / Version Control & Collaboration</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git" height="50" title="Git"/>
-  <img src="https://skillicons.dev/icons?i=github" height="50" title="GitHub"/>
-</p>
-
-<p align="center"><b>Ferramentas & Design / Tools & Design</b></p>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=vscode" height="50" title="VS Code"/>
-  <img src="https://skillicons.dev/icons?i=figma" height="50" title="Figma"/>
-</p>
-
-<br>
-
----
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=guiborgesw&theme=transparent&hide_border=true&stroke=6A5ACD&ring=6A5ACD&fire=6A5ACD&currStreakLabel=6A5ACD" height="160"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiborgesw&layout=compact&theme=transparent&hide_border=true&title_color=6A5ACD" height="160"/>
-</p>
-
----
 <br>
 
 ## 🌐 Redes Sociais / Social Media
 <br>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/guiborgesw)  
+<a href="https://linkedin.com/in/guiborgesw"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
 
 📩 **Contato/Contact:** borgesg226@gmail.com
