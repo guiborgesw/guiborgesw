@@ -49,6 +49,12 @@ I'm constantly growing, building real-world projects and always aiming to delive
 </p>
 <br>
 
+<p align="center">
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=guiborgesw&hide=issues,contribs&include_all_commits=true&locale=pt-br&bg_color=0d1117&border_color=30363d&title_color=6BB4ED&ring_color=6BB4ED&text_color=6BB4ED&icon_color=6BB4ED" alt="Estatísticas do GitHub de Guilherme Borges" />
+  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiborgesw&layout=compact&locale=pt-br&bg_color=0d1117&border_color=30363d&title_color=6BB4ED&text_color=6BB4ED" alt="Linguagens mais usadas" />
+</p>
+<br>
+
 ## 🌐 Redes Sociais / Social Media
 <br>
 
