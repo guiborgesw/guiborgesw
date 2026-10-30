@@ -50,8 +50,16 @@ I'm constantly growing, building real-world projects and always aiming to delive
 <br>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=guiborgesw&hide=issues,contribs&include_all_commits=true&locale=pt-br&bg_color=0d1117&border_color=30363d&title_color=6BB4ED&ring_color=6BB4ED&text_color=6BB4ED&icon_color=6BB4ED" alt="Estatísticas do GitHub de Guilherme Borges" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guiborgesw&layout=compact&locale=pt-br&bg_color=0d1117&border_color=30363d&title_color=6BB4ED&text_color=6BB4ED" alt="Linguagens mais usadas" />
+  <img
+    height="140"
+    src="https://github-stats-extended.vercel.app/api?username=guiborgesw&include_all_commits=true&show_icons=true&hide=issues,contribs&locale=pt-br&bg_color=0d1117&border_color=30363d&title_color=6BB4ED&ring_color=6BB4ED&text_color=c9d1d9&icon_color=6BB4ED"
+    alt="Estatísticas e commits do GitHub"
+  />
+  <img
+    height="165"
+    src="https://github-stats-extended.vercel.app/api/top-langs/?username=guiborgesw&layout=compact&langs_count=6&locale=pt-br&bg_color=0d1117&border_color=30363d&title_color=6BB4ED&text_color=c9d1d9"
+    alt="Linguagens mais utilizadas no GitHub"
+  />
 </p>
 <br>
 
